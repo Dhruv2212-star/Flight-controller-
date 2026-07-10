@@ -7,5 +7,7 @@ Power Suply **10mins**
 <img width="1366" height="768" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/503a6d5a-5f06-49a8-94da-26f15c8eda6d" />
 STEM powering **15mins**
 <img width="1366" height="768" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/fdc34f90-5d41-44b8-9474-2fc56519455e" />
+Crystal connections **9mins**
+<img width="1366" height="768" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/c493d74b-2395-4032-859a-6fb6e9ac15d7" />
 
 
