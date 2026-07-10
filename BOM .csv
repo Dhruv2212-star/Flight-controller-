@@ -1,0 +1,40 @@
+Reference,Qty,Value
+BZ1,1,Buzzer
+C1,1,2.2uf
+"C2,C3,C4,C7",4,100nf
+"C5,C6",2,18pf
+C8,1,"22µF, 35V"
+C9,1,"22µF, 10V"
+C10,1,10nF
+C11,1,100nF
+"C13,C14",2,1uf
+D1,1,POWER LED-Green
+D2,1,STATUS LED-blue
+D3,1,D_Schottky
+D4,1,SMBJ26CA
+F1,1,Polyfuse
+J1,1,USB_C_Receptacle_USB2.0_14P
+J2,1,Conn_02x03_Odd_Even
+J3,1,01x04 (expressLRS)
+J4,1,ESC connector
+J5,1,Conn_01x02_Pin
+L1,1,4.7uH
+Q1,1,MMBT2222A
+"R1,R2",2,22
+"R3,R4",2,5.1K
+R5,1,1M ohms
+R6,1,10K
+R7,1,100K
+R8,1,1K
+R9,1,330
+R10,1,1k
+R11,1,49.9kΩ
+R12,1,9.53kΩ
+R13,1,180kΩ
+R14,1,27kΩ
+SW1,1,SW_Push
+U1,1,ICM-42688-P
+U2,1,AP2112K-3.3
+U3,1,MP2359DJ
+U4,1,STM32F411CEUx
+Y1,1,Crystal
