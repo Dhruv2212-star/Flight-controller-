@@ -6750,6 +6750,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 138.43) (xy 39.37 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aeef401-a32b-4c48-8ed1-e0ffa66f790d")
+	)
+	(wire
+		(pts
 			(xy 27.94 138.43) (xy 36.83 138.43)
 		)
 		(stroke
@@ -7440,7 +7450,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 138.43) (xy 39.37 140.97)
+			(xy 40.64 138.43) (xy 40.64 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8190,7 +8200,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 140.97) (xy 39.37 140.97)
+			(xy 16.51 140.97) (xy 40.64 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8557,6 +8567,16 @@
 			(justify left bottom)
 		)
 		(uuid "7c66412a-799a-4a38-b659-e29f25348190")
+	)
+	(label "bat+"
+		(at 40.64 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8145c689-5402-4051-81b0-e1c6f704661c")
 	)
 	(label "R9"
 		(at 154.94 43.18 0)
@@ -10075,7 +10095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 			(at 167.64 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -12297,7 +12317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
 			(at 35.56 157.48 0)
 			(hide yes)
 			(show_name no)
