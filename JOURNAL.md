@@ -1,11 +1,11 @@
-# schematic 
+ schematic 
 https://lapse.hackclub.com/timelapse/As67MyGgbrsy- research and adding all the necessary components  
 https://lapse.hackclub.com/timelapse/pfVKS3YQiEa1- making all the block systems and making the final connections  
 https://lapse.hackclub.com/timelapse/KVyzKA2z3cqI- Added powerlines (battery connections and also utlised one of the gpio pins for battery data  
 https://lapse.hackclub.com/timelapse/k_mX-gwa9zRS- searched for parts for footprints  
 https://lapse.hackclub.com/timelapse/GKvWLAXhc2rL- Finished the final part, PCB tracin  
-
-## Made the STM chip->IMU connetions | 35 mins
+## Initial research on the parts to use and the modules avalable and the datasheets | 1 hour 
+## Made the STM chip->IMU connetions | 35 mins  
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f6aa609-d11e-4abd-9091-7d4f79441ffb" />
 ## Made the USB connections | 5mins   
 
@@ -31,7 +31,7 @@ https://lapse.hackclub.com/timelapse/GKvWLAXhc2rL- Finished the final part, PCB 
 ## added buzzer | 10mins 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e967478-7008-40a8-a86c-0b4880904b3f" />
 
-## made changes to the MP2359J module 
+## made changes to the MP2359J module and added power lines | 1 hour 30 mins
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6cc2b8ce-a56f-4261-8b8c-b2ea2cfa50bc" />
 
 
@@ -43,7 +43,7 @@ https://lapse.hackclub.com/timelapse/GKvWLAXhc2rL- Finished the final part, PCB 
 ## searched for parts online and added relative footprints | 1 hour 8 mins 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/420014b8-7f0e-460f-86ac-726b23a3ca02" />
 
-## PCB routing 
+## PCB routing | 3 hours 
 <img width="1366" height="768" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/1bed5035-ba4e-42e8-9fe1-dd1640a11ec3" />
 <img width="1366" height="768" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/1478e23e-0b43-4278-8d29-72a6dd5efe60" />
 
