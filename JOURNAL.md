@@ -27,8 +27,13 @@ https://lapse.hackclub.com/timelapse/KVyzKA2z3cqI- Added powerlines (battery con
 
 <img width="1366" height="768" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/acdab683-0abc-4230-8d55-07ac82cae759" />
 ## added buzzer | 10mins 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e967478-7008-40a8-a86c-0b4880904b3f" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e79ed1f7-8793-43cb-8b32-195a5d82f3d9" />
+## made changes to the MP2359J module 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6cc2b8ce-a56f-4261-8b8c-b2ea2cfa50bc" />
+
+
+
 ## Research and adding terminal for battery and created a path to measure battery voltage | 1 hour 30 mins 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f73f1de8-320c-48ad-bbe0-2ea6310a3390" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5279eca-3533-4c3c-ad63-f497eb81e5dc" />
