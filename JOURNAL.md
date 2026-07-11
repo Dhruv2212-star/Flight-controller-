@@ -1,4 +1,4 @@
- schematic 
+# schematic 
 https://lapse.hackclub.com/timelapse/As67MyGgbrsy- research and adding all the necessary components  
 https://lapse.hackclub.com/timelapse/pfVKS3YQiEa1- making all the block systems and making the final connections  
 https://lapse.hackclub.com/timelapse/KVyzKA2z3cqI- Added powerlines (battery connections and also utlised one of the gpio pins for battery data  
