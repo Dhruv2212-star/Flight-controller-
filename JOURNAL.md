@@ -40,6 +40,8 @@ https://lapse.hackclub.com/timelapse/k_mX-gwa9zRS- searched for parts for footpr
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5279eca-3533-4c3c-ad63-f497eb81e5dc" />
 
 ## searched for parts online and added relative footprints | 1 hour 8 mins 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/420014b8-7f0e-460f-86ac-726b23a3ca02" />
+
 
 ## Note- it took me this much time because i had to constantly go back and fouth into the data sheet for details as this was my first project that i made that was a bit on higher difficulty as i had to go through data sheets of multiple components  
 *research time*- 14 hours
