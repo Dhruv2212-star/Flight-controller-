@@ -2,6 +2,7 @@
 https://lapse.hackclub.com/timelapse/As67MyGgbrsy- research and adding all the necessary components  
 https://lapse.hackclub.com/timelapse/pfVKS3YQiEa1- making all the block systems and making the final connections  
 https://lapse.hackclub.com/timelapse/KVyzKA2z3cqI- Added powerlines (battery connections and also utlised one of the gpio pins for battery data 
+https://lapse.hackclub.com/timelapse/k_mX-gwa9zRS- searched for parts for footprints 
 
 ## Made the STM chip->IMU connetions | 35 mins
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f6aa609-d11e-4abd-9091-7d4f79441ffb" />
@@ -38,6 +39,7 @@ https://lapse.hackclub.com/timelapse/KVyzKA2z3cqI- Added powerlines (battery con
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f73f1de8-320c-48ad-bbe0-2ea6310a3390" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5279eca-3533-4c3c-ad63-f497eb81e5dc" />
 
+## searched for parts online and added relative footprints | 1 hour 8 mins 
 
 ## Note- it took me this much time because i had to constantly go back and fouth into the data sheet for details as this was my first project that i made that was a bit on higher difficulty as i had to go through data sheets of multiple components  
 *research time*- 14 hours
