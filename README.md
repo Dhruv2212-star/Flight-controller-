@@ -6,7 +6,7 @@
 <img width="1266" height="727" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/bc659ab7-eb4f-4201-91d0-d8095827e179" />
 
 
-## Entire manual with instructions on why the parts are used, where and everything is in the "astra flight controller manual  
+## Entire manual with instructions on why the parts are used, where and everything is in the "astra_flight_controller_manual" 
 
  * **Ai used for compiling the data and creating a format withing pdf (all the data is given to it by me, Ai has just been used ai to keep the format neet and clean.**
  * Ai has been used to create diagrams and explainations as it was hard for me to create diagrams in format of PDF
