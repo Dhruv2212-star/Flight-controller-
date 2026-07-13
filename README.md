@@ -3,5 +3,5 @@
 
 ## Entire manual with instructions on why the parts are used, where and everything is in the "astra flight controller manual  
 [Astra_Flight_Controller_Manual.pdf](https://github.com/user-attachments/files/29958196/Astra_Flight_Controller_Manual.pdf)
-
+ * **Ai used for compiling the data and creating a format withing pdf, could have minor errors** 
 
