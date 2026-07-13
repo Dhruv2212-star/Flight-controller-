@@ -7,9 +7,10 @@
 
 
 ## Entire manual with instructions on why the parts are used, where and everything is in the "astra flight controller manual  
-[Astra_Flight_Controller_Manual.pdf](https://github.com/user-attachments/files/29958196/Astra_Flight_Controller_Manual.pdf)
+
  * **Ai used for compiling the data and creating a format withing pdf (all the data is given to it by me, Ai has just been used ai to keep the format neet and clean.**
-  * other than than NO, Ai has been used to write the descriptions, details. 
+ * Ai has been used to create diagrams and explainations as it was hard for me to create diagrams in format of PDF
+ * Ai has been used to simplify few terms and make it short as the pdf became over 90 pages nad hence it was shorttened to just 45 pages max  
  * Note-- the firmware needs to be programed according to the use, hence cannot be pre-programed
    
 
