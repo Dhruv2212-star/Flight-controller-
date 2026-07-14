@@ -116,14 +116,14 @@ Firmware upload, configuration using Betaflight/INAV/STM32CubeProgrammer, debugg
 **Advantages**  
 Reversible connector, stronger mechanical retention, higher current capability and modern industrystandard compatibility.  
 **USB Connector**
-| Pin | Function |
-| VBUS | +5V |
-| GND | Ground |
-| D+ | USB Data Positive |
-| D- | USB Data Negative |
-| CC1 | Configuration Channel 1 |
-| CC2 | Configuration Channel 2 |
-| Shield | Connector Shield |
+| Pin | Function |  
+| VBUS | +5V |  
+| GND | Ground |  
+| D+ | USB Data Positive |  
+| D- | USB Data Negative |  
+| CC1 | Configuration Channel 1 |  
+| CC2 | Configuration Channel 2 |  
+| Shield | Connector Shield |  
 
 **Data Communication**
 USB Full-Speed uses the D+ and D− differential pair. Route them together with matched lengths, minimal vias, constant spacing, no sharp bends and a continuous ground plane. The STM32F411CEU6 supports USB 2.0 Full-Speed (12 Mbps), sufficient for firmware updates and configuration  
