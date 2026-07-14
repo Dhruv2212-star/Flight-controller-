@@ -48,23 +48,15 @@ Measurements: 3-axis Accelerometer, 3-axis Gyroscope. Communication: SPI Interfa
 The IMU continuously measures angular velocity and acceleration  
 **Power-Up Sequence**
 *When battery power is applied, the following sequence occurs:*
-Step 1: Battery voltage enters through the XT30 connector.
-
-Step 2: The resettable fuse protects the board from excessive current.
-
-Step 3: The MP2359DJ converts battery voltage into a regulated +5V supply.
-
-Step 4: The AP2112K converts +5V into +3.3V.
-
-Step 5: The STM32F411CEU6 receives stable power.
-
-Step 6: The crystal oscillator starts generating the system clock.
-
-Step 7: The microcontroller boots from Flash memory.
-
-Step 8: The SPI interface initializes the ICM-42688-P.
-
-Step 9: Sensors begin transmitting motion data.
+Step 1: Battery voltage enters through the XT30 connector.  
+Step 2: The resettable fuse protects the board from excessive current.  
+Step 3: The MP2359DJ converts battery voltage into a regulated +5V supply.  
+Step 4: The AP2112K converts +5V into +3.3V.  
+Step 5: The STM32F411CEU6 receives stable power.   
+Step 6: The crystal oscillator starts generating the system clock.  
+Step 7: The microcontroller boots from Flash memory.  
+Step 8: The SPI interface initializes the ICM-42688-P.  
+Step 9: Sensors begin transmitting motion data.  
 
 Step 10: The flight controller enters normal operating mode.
 ------------------------------------------------------------------------------------------------------------------------------------------
