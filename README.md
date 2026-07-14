@@ -57,8 +57,8 @@ Step 6: The crystal oscillator starts generating the system clock.
 Step 7: The microcontroller boots from Flash memory.  
 Step 8: The SPI interface initializes the ICM-42688-P.  
 Step 9: Sensors begin transmitting motion data.  
+Step 10: the flight controller enters normal operating mode 
 
-Step 10: The flight controller enters normal operating mode.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
