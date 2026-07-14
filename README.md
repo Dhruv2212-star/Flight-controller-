@@ -68,8 +68,8 @@ The STM32F411CEU6 uses an external crystal oscillator for accurate timing. The e
 Why Two Regulators?  
 Using a single linear regulator directly from the battery would result in excessive heat generation, especially at higher input voltages. Instead, the Astra Flight Controller uses a two-stage regulation    
 approach:  
-● MP2359DJ Buck Converter — efficiently reduces battery voltage to 5 V.  
-● AP2112K LDO — produces a clean and stable 3.3 V output with minimal electrical  
+* MP2359DJ Buck Converter — efficiently reduces battery voltage to 5 V.  
+* AP2112K LDO — produces a clean and stable 3.3 V output with minimal electrical  
 noise. This combination provides both efficiency and stable operation.  
 
 **STM32F411CEU6 Microcontroller**
@@ -148,31 +148,31 @@ expected by the firmware.
 Proper placement reduces electrical interference and vibration-induced measurement errors  
 **Power Section Placement**
 The power conversion circuitry is grouped together near the battery input. This includes:  
-● XT30 connector.  
-● Resettable fuse.  
-● Protection diode.  
-● MP2359DJ buck converter.  
-● 4.7 µH Bourns SRP5030TA-4R7M inductor.  
-● Input and output capacitors.  
-● AP2112K voltage regulator.  
+* XT30 connector.  
+* Resettable fuse.  
+* Protection diode.  
+* MP2359DJ buck converter.  
+* 4.7 µH Bourns SRP5030TA-4R7M inductor.  
+* Input and output capacitors.  
+* AP2112K voltage regulator.  
 ## Power Supply Design
 The Astra Flight Controller is designed to operate directly from a 2S to 6S Lithium Polymer (LiPo) battery, meaning the input voltage can vary from approximately 7.4 V to 25.2 V. To achieve stable regulation, the Astra Flight Controller uses a two-stage power architecture: the MP2359DJ synchronous buck converter generates a regulated 5 V supply from the battery, and the AP2112K Low Dropout (LDO) regulator generates a clean 3.3 V supply from the 5 V raiL  
 
  Power Flow
 2S–6S LiPo Battery  
-▼  
+|  
 XT30 Battery Connector  
-▼  
+|  
 Resettable Fuse (F1)  
-▼  
+|  
 TVS / Reverse Protection  
-▼  
+|  
 MP2359DJ Buck Converter — +5 V Rail  
-▼  
+|  
 AP2112K LDO Regulator — +3.3 V Rail  
-▼   
+|  
 STM32F411 
-▼  
+|  
 ICM-42688  
 ##  Resettable Fuse (F1)
 Immediately after the XT30 connector, the input passes through a resettable polyfuse (PTC), which protects the PCB from excessive current caused by short circuits, incorrect wiring, component failures, or assembly mistakes. Unlike a traditional fuse, the polyfuse automatically resets after the fault is removed and the device cools down.  
